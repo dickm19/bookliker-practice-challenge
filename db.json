@@ -37,10 +37,6 @@
         {
           "id": 6,
           "username": "steuber"
-        },
-        {
-          "id": 1,
-          "username": "pouros"
         }
       ]
     },
@@ -77,7 +73,8 @@
           "id": 8,
           "username": "maverick"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 5,
@@ -116,8 +113,17 @@
         {
           "id": 4,
           "username": "ann"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 7,
@@ -157,7 +163,8 @@
           "id": 2,
           "username": "auer"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 9,
@@ -196,8 +203,17 @@
         {
           "id": 10,
           "username": "macejkovic"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
-      ]
+      ],
+      "username": "pouros"
     },
     {
       "id": 11,
