@@ -73,14 +73,6 @@ document.addEventListener("DOMContentLoaded", function() {
         })
     }
 
-    function renderCard(book){
-        
-    }
-
-    function likeBook(book){
-       
-
-    }
 
     function renderBooks(books){
         books.forEach(renderBook)
